@@ -1,0 +1,70 @@
+/*     
+
+  PlaygroundJS r12
+  
+  http://playgroundjs.com
+  
+  (c) 2012-2016 http://rezoner.net
+  
+  Playground may be freely distributed under the MIT license.
+
+  latest major changes:
+
+  r12
+
+  + fixed font loader and antialias
+  + updated canvasquery
+
+  r11
+
+  + sound panning
+  
+  r10
+
+  + tween.call
+  + pointer now takes care of cursor that left the window
+  + this.keyboard.any (is any key pressed)
+
+  r9
+
+  + json data cascade
+  + tween step event
+
+  r8
+
+  + fixed Transitions for CommonJS
+  + images expand into hierarchy
+
+  r7
+
+  + fixed event.off
+  + temporary fixes for gamepad d-pad
+
+  r6
+
+  + custom transitions
+  + fixes for gamepad
+  + updated CanvasQuery
+  
+  r5
+
+  + game loop split into render and step - check profiler
+  + fixed loader last item
+  + fixed some flow issues
+  + imageready event
+  + loadFont
+  + gamepad stick issue
+  + pointerwheel event
+  + updated CanvasQuery
+  - removed video recorder  
+
+  r4
+
+  + tweens with events
+  + context argument for events
+
+  r3
+
+  + pointer = mouse + touch
+
+*/
